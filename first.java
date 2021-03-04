@@ -7,4 +7,5 @@
 		 System.out.println("your number: " + number):
 	  }
    //this is my first java file //no changes to be made
-   
+    //swe1002 lab3 
+    //
